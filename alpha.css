@@ -1,44 +1,62 @@
+html{
+    background-color: grey;
+    color: whitesmoke;
+    font-family: Garamond;
+}
+
 #header{
     background-color: black;
-    font-family: Arial, Helvetica, sans-serif;
     font-size:x-large;
     color: whitesmoke;
+    text-align: center;
+    min-height: 600px;
+    padding-top: 100px;
+    margin: none;
+}
+
+#selection{
+    font-size: large;
+    text-shadow: 3px,3px;
 }
 
 #aboutme{
-    width: 80%;
-    border: 15px dotted blue;
-    padding: 50px;
+    background-color: black;
+    width: 100%;
+    border: 2px dotted blue;
+    padding: 50px,50px,50px,50px;
     margin: auto;
 }
       
 #passion{
-    width: 80%;
-    border: 15px dotted blue;
-    padding: 50px;
+    background-color: black;
+    width: 100%;
+    border: 2px dotted blue;
+    padding: 50px,50px,50px,50px;
     margin: auto;
 }
 
        
 #photo{
-    width: 80%;
-    border: 15px dotted blue;
-    padding: 50px;
+    background-color: black;
+    width: 100%;
+    border: 2px dotted blue;
+    padding: 50px,50px,50px,50px;
     margin: auto;
 }
 
 #contacts{
-    width: 80%;
-    border: 15px dotted blue;
-    padding: 50px;
+    background-color: black;
+    width: 100%;
+    border: 2px dotted blue;
+    padding: 50px,50px,50px,50px;
     margin: auto;
 }
        
 #copyright{
-    width: 80%;
-    height:100%;
-    border: 15px dotted blue;
-    padding: 50px;
+    background-color: black;
+    width: 100%;
+    border: 2px dotted blue;
+    padding: 50px,50px,50px,50px;
     margin: auto;
 }
 
