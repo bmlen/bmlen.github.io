@@ -22,7 +22,6 @@ html{
 #aboutme{
     background-color: black;
     width: 100%;
-    border: 2px dotted blue;
     padding: 50px,50px,50px,50px;
     margin: auto;
 }
@@ -30,7 +29,6 @@ html{
 #passion{
     background-color: black;
     width: 100%;
-    border: 2px dotted blue;
     padding: 50px,50px,50px,50px;
     margin: auto;
 }
@@ -39,7 +37,6 @@ html{
 #photo{
     background-color: black;
     width: 100%;
-    border: 2px dotted blue;
     padding: 50px,50px,50px,50px;
     margin: auto;
 }
@@ -47,7 +44,6 @@ html{
 #contacts{
     background-color: black;
     width: 100%;
-    border: 2px dotted blue;
     padding: 50px,50px,50px,50px;
     margin: auto;
 }
