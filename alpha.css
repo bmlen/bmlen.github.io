@@ -21,31 +21,43 @@ html{
 
 #aboutme{
     background-color: black;
-    width: 100%;
-    padding: 50px,50px,50px,50px;
-    margin: auto;
+    font-size:x-large;
+    color: whitesmoke;
+    text-align: center;
+    min-height: 550px;
+    padding-top: 100px;
+    margin: none;
 }
       
 #passion{
     background-color: black;
-    width: 100%;
-    padding: 50px,50px,50px,50px;
-    margin: auto;
+    font-size:x-large;
+    color: whitesmoke;
+    text-align: center;
+    min-height: 550px;
+    padding-top: 100px;
+    margin: none;
 }
 
        
 #photo{
     background-color: black;
-    width: 100%;
-    padding: 50px,50px,50px,50px;
-    margin: auto;
+    font-size:x-large;
+    color: whitesmoke;
+    text-align: center;
+    min-height: 550px;
+    padding-top: 100px;
+    margin: none;
 }
 
 #contacts{
     background-color: black;
-    width: 100%;
-    padding: 50px,50px,50px,50px;
-    margin: auto;
+    font-size:x-large;
+    color: whitesmoke;
+    text-align: center;
+    min-height: 250px;
+    padding-top: 100px;
+    margin: none;
 }
        
 #copyright{
