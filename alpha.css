@@ -5,12 +5,21 @@ html{
 }
 
 #header{
-    background-color: black;
-    color: whitesmoke;
+    background-image: url("cover.jpg"), url("cover2.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: lighten;
+    color: black;
     text-align: center;
+    font-size: large;
     min-height: 500px;
     padding-top: 100px;
     margin: none;
+}
+
+#logo{
+    float:left;
 }
 
 #selection{
