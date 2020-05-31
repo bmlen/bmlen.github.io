@@ -51,7 +51,7 @@ html{
 #copyright{
     background-color: black;
     width: 100%;
-    border: 2px dotted blue;
+    border: 2px solid blue;
     padding: 50px,50px,50px,50px;
     margin: auto;
 }
