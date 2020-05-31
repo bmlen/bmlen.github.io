@@ -4,3 +4,50 @@
     font-size:x-large;
     color: whitesmoke;
 }
+
+#aboutme{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    left: 50%;
+    top: 50%;
+}
+      
+#passion{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    top: 50%;
+    left: 50%;
+}
+
+       
+#photo{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    left: 50%;
+    top: 50%;
+}
+
+#contacts{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    left: 50%;
+    top: 50%;
+}
+       
+#copyright{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    left: 50%;
+    top: 50%;
+}
+
