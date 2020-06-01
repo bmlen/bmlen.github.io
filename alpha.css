@@ -1,11 +1,15 @@
 html{
     background-color: black;
     color: whitesmoke;
-    font-family: Garamond;
+    font-family: "Courier New";
+}
+
+hr{
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
 
 #header{
-    background-image: url("cover.jpg"), url("cover2.jpg") ;
+    background-image: url("cover.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -36,8 +40,10 @@ html{
     color: whitesmoke;
     text-align: center;
     min-height: 550px;
-    padding-top: 100px;
+    padding-top: 50px;
     margin: none;
+    border-top-color: grey;
+
 }
       
 #passion{
@@ -46,8 +52,9 @@ html{
     color: whitesmoke;
     text-align: center;
     min-height: 550px;
-    padding-top: 100px;
+    padding-top: 50px;
     margin: none;
+    border-top-color: grey;
 }
 
        
@@ -57,8 +64,9 @@ html{
     color: whitesmoke;
     text-align: center;
     min-height: 550px;
-    padding-top: 100px;
+    padding-top: 50px;
     margin: none;
+    border-top-color: grey;
 }
 
 #contacts{
@@ -67,8 +75,9 @@ html{
     color: whitesmoke;
     text-align: center;
     min-height: 250px;
-    padding-top: 100px;
+    padding-top: 50px;
     margin: none;
+    border-top-color: grey;
 }
        
 #copyright{
