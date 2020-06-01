@@ -24,7 +24,10 @@ html{
 
 #selection{
     font-size: large;
-    text-shadow: 3px,3px;
+    position: fixed;
+    width: 100%;
+    background-color: rgba(34, 26, 26, 0.486);
+    height: auto;
 }
 
 #aboutme{
