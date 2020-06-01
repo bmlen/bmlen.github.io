@@ -13,10 +13,9 @@ hr{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-blend-mode: lighten;
     color: black;
     text-align: center;
-    font-size: large;
+    font-size: medium;
     min-height: 500px;
     padding-top: 100px;
     margin: none;
@@ -25,6 +24,7 @@ hr{
 #logo{
     float:left;
 }
+
 
 #selection{
     font-size: large;
