@@ -9,7 +9,7 @@ hr{
 }
 
 .button{
-    background-color: rgb(21, 221, 144);
+    background-color: rgba(34, 26, 26);
     border-color: rgba(146, 120, 120, 0.904);
     height: auto;
     bottom: 0px;
@@ -17,6 +17,11 @@ hr{
     display: inline-block;
 }
 
+.link{
+    color: antiquewhite;
+    font-size: large;
+
+}
 #header{
     background-image: url("cover.jpg");
     background-repeat: no-repeat;
@@ -30,8 +35,13 @@ hr{
     margin: none;
 }
 
+#item{
+    font-size: medium;
+    padding-top: 0px;
+}
+
 #logo{
-    float:left;
+    margin-bottom: 0px;
 }
 
 
@@ -39,8 +49,8 @@ hr{
     font-size: large;
     position: fixed;
     width: 100%;
-    background-color: rgba(34, 26, 26, 0.486);
-    bottom : 0px;
+    background-color: rgba(34, 26, 26);
+    top : 0px;
 }
 
 #aboutme{
