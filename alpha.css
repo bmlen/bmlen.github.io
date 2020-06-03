@@ -31,6 +31,12 @@ hr{
     padding: none;
     text-decoration: none;}
 
+.elink{
+    color: rgb(216, 198, 198);
+    font-size: large;
+    text-decoration: none;
+    }
+
 #header{
     background-image: url("cover.jpg");
     background-repeat: no-repeat;
@@ -108,9 +114,11 @@ hr{
 }
 
 #email{
-    background-color: rgb(61, 76, 216);
+    background-color: grey;
     font-size: larger;
     border-radius: 3px;
+    padding-right: 35%;
+    text-align: center;
 }
        
 #copyright{
