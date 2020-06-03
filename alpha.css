@@ -106,6 +106,12 @@ hr{
     margin: none;
     border-top-color: grey;
 }
+
+#email{
+    background-color: rgb(61, 76, 216);
+    font-size: larger;
+    border-radius: 3px;
+}
        
 #copyright{
     background-color: white;
