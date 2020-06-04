@@ -31,12 +31,15 @@ hr{
     color: antiquewhite;
     font-size: large;
     padding: none;
-    text-decoration: none;}
+    text-decoration: none;
+    text-align: center;
+    }
 
 .elink{
     color: rgb(216, 198, 198);
     font-size: large;
     text-decoration: none;
+    text-align: center;
     }
 
 #header{
@@ -119,7 +122,8 @@ hr{
     background-color: grey;
     font-size: larger;
     border-radius: 3px;
-    padding-right: 35%;
+    padding-right: 12%;
+    padding-left: 12%;
     text-align: center;
 }
        
