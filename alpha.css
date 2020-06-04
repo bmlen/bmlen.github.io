@@ -18,6 +18,8 @@ hr{
     text-decoration: none;
     transition-duration: 0.4s;
     cursor: pointer;
+    color: antiquewhite;
+    font-size: large;
 }
 
 .button:hover{
