@@ -73,7 +73,7 @@ hr{
 }
 
 #aboutme{
-    background-color: black;
+    background-color: whitesmoke;
     font-size:x-large;
     color: whitesmoke;
     text-align: center;
@@ -97,9 +97,9 @@ hr{
 
        
 #photo{
-    background-color: black;
+    background-color: whitesmoke;
     font-size:x-large;
-    color: whitesmoke;
+    color: black;
     text-align: center;
     min-height: 550px;
     padding-top: 50px;
