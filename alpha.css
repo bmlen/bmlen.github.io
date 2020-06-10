@@ -42,6 +42,11 @@ hr{
     text-align: center;
     }
 
+.icon{
+    width: 50px;
+    height: 50ox;
+}
+
 #header{
     background-image: url("cover.jpg");
     background-repeat: no-repeat;
@@ -62,6 +67,7 @@ hr{
 
 #logo{
     margin-bottom: 0px;
+    padding-top: 5px;
 }
 
 
@@ -108,9 +114,9 @@ hr{
 }
 
 #contacts{
-    background-color: black;
+    background-color: rgb(46, 152, 223);
     font-size:x-large;
-    color: whitesmoke;
+    color: rgb(47, 54, 43);
     text-align: center;
     min-height: 350px;
     padding-top: 25px;
