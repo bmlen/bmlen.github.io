@@ -45,6 +45,7 @@ hr{
 .icon{
     width: 50px;
     height: 50ox;
+    fill: white;
 }
 
 #header{
@@ -114,9 +115,9 @@ hr{
 }
 
 #contacts{
-    background-color: rgb(46, 152, 223);
+    background-color: grey;
     font-size:x-large;
-    color: rgb(47, 54, 43);
+    color: whitesmoke;
     text-align: center;
     min-height: 350px;
     padding-top: 25px;
@@ -125,7 +126,7 @@ hr{
 }
 
 #email{
-    background-color: grey;
+    background-color: rgb(230, 216, 216);
     font-size: larger;
     border-radius: 3px;
     padding-right: 12%;
